@@ -8,7 +8,7 @@ class StudentsResource:
     #
 
     students_file = \
-        "/Users/kalas/Documents/2023Columbia/Cloud_Computing/e6156-microservice-1/resources/students.json"
+        "/Users/kalas/Documents/2023Columbia/Cloud_Computing/CloudComputing_Assignment1/resources/students.json"
 
     def __init__(self):
         self.students = None

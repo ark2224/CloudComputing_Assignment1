@@ -17,7 +17,7 @@ async def root():
 
 @app.get("/hello/{name}")
 async def say_hello(name: str):
-    return {"message": f"Awesome cloud developer ark2224 says hello {name}"}
+    return {"message": f"Awesome cloud developer ark2224 says Hello {name}"}
 
 
 @app.get("/hello_text/{name}")

@@ -52,7 +52,7 @@ Show the information about your VM through the console.
 |:-----------------------------:|
 |        __AWS Console__        | 
 
-Show the application running in the EC2 terminal and browser.
+Show the application running in the EC2 terminal and browser. (the addresses for the EC2 instances above and below are different because the one above failed and I created a new one)
 
 | <img src="./aws-running.jpg"> |
 |:-----------------------------:|
